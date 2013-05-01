@@ -3,7 +3,7 @@
 	<html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Hero Testing</title>			
+		<title>Hero Testing git update</title>			
 		<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css"/>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>		
 		<script src="js/jquery.js"></script>
@@ -231,6 +231,6 @@
 					</ul>		
 			</div>
 		</div>
-	</div>
+	</div>	
 	</body>
 	</html>
